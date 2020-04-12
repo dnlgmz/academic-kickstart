@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of Computational Molecular Medicine
+role: Student of Molecular Medicine
 
 # Organizations/Affiliations
 organizations:
