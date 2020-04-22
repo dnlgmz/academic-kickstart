@@ -30,8 +30,8 @@ education:
 #  - course: PhD in Chemical and Biological Sciences
     institution: Scripps Research
     year: 2026
-#  - course: PSM in Biotechnology
-    institution: San Francisco State University
+#  - course: MS in Biomedical Sciences
+    institution: University of Hawaii at Manoa, John A. Burns School of Medicine
     year: 2025
   - course: BS in Biological Sciences and Biomedical Sciences
     institution: Arizona State University
