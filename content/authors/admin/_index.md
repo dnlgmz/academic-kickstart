@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Student of Molecular Medicine
+role: Student of Biology and Biomedical Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: SF State University
-  url: "http://biology.sfsu.edu/content/bachelor-science-biology-concentration-cell-and-molecular-biology"
+- name: Arizona State University
+  url: "https://asuonline.asu.edu/online-degree-programs/undergraduate/biological-sciences-biomedical-sciences-bs/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cell and molecular biology, computational medicine and chemistry.
 
 interests:
-- Cell and Molecular Biology
-- Computational Medicine
+- Biomedical Sciences
+- Molecular Medicine
 - Biology
 
 education:
@@ -33,8 +33,8 @@ education:
 #  - course: PSM in Biotechnology
     institution: San Francisco State University
     year: 2025
-  - course: BS in Biology
-    institution: San Francisco State University
+  - course: BS in Biological Sciences and Biomedical Sciences
+    institution: Arizona State University
     year: 2023
 
 # Social/Academic Networking
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:djgomez5@asu.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/danieljgomez5
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Daniel Joseph Gomez is a student of cell and molecular molecular biology at SF State. His research interests include molecular medicine, molecular computing and biotechnology. He leads the CM group, which develops computational systems biology, bioinformatics and gene editing.
+Daniel Joseph Gomez is a student of cell and molecular molecular biology at Arizona State. His research interests include molecular medicine, molecular computing and biotechnology. He leads the MCB group, which develops bioinformatics, computational systems biology, and gene editing.
 
 He started in Molecular Cell Biology, he was then hired in the Department of Tropical Medicine, Medical Microbiology, and Pharmacology at the University of Hawaii at Manoa, John A. Burns School of Medicine. Basic research experience began <i>in vitro</i> culturing these cells neurons, astrocytes, cardiomyocytes. He also processed whole blood and isolated PBMCs for viability assays. In tissue biology, performed immunohistochemistry <i>in situ</i> in mouse brain and kidney to identify HIV-1 and JCPyV proteins and physiological biomarkers. 
 Volunteering at UCSD School of Medicine in the Department of Anesthesiology he gained surgical experience in House mouse and culturing and gathering metabolomic data in cardiomyocytes. He was able to perform the Langendorf Apparatus heart surgery independtly while collecting electrode data on somatostatins. 
